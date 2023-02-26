@@ -1,1 +1,1 @@
-# Implementation-of-Kafka-Events-in-Microservices-Architecture
+I implemented Kafka events in a microservices architecture with multiple consumers. To achieve this, I created several microservices, including order service, stock service, and email service. These microservices communicate asynchronously using Kafka as a message broker.
